@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">I am a full-stack developer with a strong passion for the world of backend development. My journey is all about continuous growth, driven by continuous practice and contributions to open-source projects. I believe in sharing knowledge, collaborating with peers, and making a positive impact on the tech ecosystem.</h3>
+<p>I am a full-stack developer with a strong passion for the world of backend development. My journey is all about continuous growth, driven by continuous practice and contributions to open-source projects. I believe in sharing knowledge, collaborating with peers, and making a positive impact on the tech ecosystem.</p>
 
 - 👨‍💻 All of my projects are available at [thomasravetto.dev](thomasravetto.dev)
 
