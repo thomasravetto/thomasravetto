@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [thomasravetto.dev](https://thomasravetto.dev)
 
-- 📝 I like to write articles on [https://medium.com/@thomasravetto](https://medium.com/@thomasravetto)
+- 📝 I like to write articles on [medium](https://medium.com/@thomasravetto)
 
 - 📫 You can reach me at [dev.thomasravetto@gmail.com](mailto:dev.thomasravetto@gmail.com)
 
