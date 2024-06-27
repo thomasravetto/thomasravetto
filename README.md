@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <p>I am a full-stack developer with a strong passion for the world of backend development. My journey is all about continuous growth, driven by continuous practice and contributions to open-source projects. I believe in sharing knowledge, collaborating with peers, and making a positive impact on the tech ecosystem.</p>
 
-- 👨‍💻 All of my projects are available at [thomasravetto.dev](thomasravetto.dev)
+- 👨‍💻 All of my projects are available at [thomasravetto.dev](https://thomasravetto.dev)
 
 - 📝 I like to write articles on [https://medium.com/@thomasravetto](https://medium.com/@thomasravetto)
 
-- 📫 You can reach me at [dev.thomasravetto@gmail.com](dev.thomasravetto@gmail.com)
+- 📫 You can reach me at [dev.thomasravetto@gmail.com](mailto:dev.thomasravetto@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
